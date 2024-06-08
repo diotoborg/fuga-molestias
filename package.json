@@ -1,18 +1,57 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@diotoborg/fuga-molestias",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "diotobenijj",
   "license": "MIT",
+  "dependencies": {
+    "@diotoborg/adipisci-placeat-iure": "^3.2.29",
+    "@diotoborg/amet-architecto-est": "^3.4.27",
+    "@diotoborg/at-totam-perspiciatis": "^1.4.29",
+    "@diotoborg/commodi-voluptatum-libero": "^2.1.31",
+    "@diotoborg/delectus-necessitatibus-voluptatum": "^3.4.27",
+    "@diotoborg/deserunt-illo-tempora": "^1.7.26",
+    "@diotoborg/dicta-recusandae-veniam": "^1.5.28",
+    "@diotoborg/dolor-earum-quia": "^2.4.28",
+    "@diotoborg/dolor-tempora-fuga": "^2.3.29",
+    "@diotoborg/dolores-praesentium-assumenda": "^2.5.27",
+    "@diotoborg/eligendi-est-unde": "^2.4.28",
+    "@diotoborg/esse-accusantium-ratione": "^3.2.29",
+    "@diotoborg/illo-amet-architecto": "^1.1.32",
+    "@diotoborg/laudantium-itaque-esse": "^1.3.30",
+    "@diotoborg/libero-asperiores-at": "^3.4.27",
+    "@diotoborg/neque-inventore-corporis": "^2.3.29",
+    "@diotoborg/nostrum-eveniet-officiis": "^2.2.30",
+    "@diotoborg/odio-dolores-officia": "^2.4.28",
+    "@diotoborg/porro-modi-accusamus": "^2.4.28",
+    "@diotoborg/psychic-bassoon": "^2.5.39",
+    "@diotoborg/quasi-repellat-odit": "^2.0.32",
+    "@diotoborg/qui-ullam-ipsum": "^2.2.30",
+    "@diotoborg/quo-dolorem-ducimus": "^2.1.31",
+    "@diotoborg/ratione-error-odio": "^2.3.29",
+    "@diotoborg/repellat-blanditiis-quis": "^1.2.31",
+    "@diotoborg/tempora-voluptas-distinctio": "^3.3.28",
+    "@diotoborg/ullam-dignissimos-repudiandae": "^2.3.29",
+    "@diotoborg/velit-reiciendis-velit": "^2.1.31",
+    "@diotoborg/verbose-robot": "^1.1.44"
+  },
+  "keywords": [
+    "hot",
+    "getopt",
+    "read",
+    "redact",
+    "assign",
+    "setter",
+    "ES2021"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/diotoborg/fuga-molestias.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/diotoborg/fuga-molestias/#readme",
+  "bugs": {
+    "url": "https://github.com/diotoborg/fuga-molestias/issues"
   }
 }
